@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ThirdQuest"
+    android:background="@drawable/fondo_preguntas">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="347dp"
+        android:layout_height="305dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:srcCompat="@drawable/cartel_madera" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="409dp"
+        android:layout_height="261dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/pergamino_2" />
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="281dp"
+        android:layout_height="138dp"
+        android:layout_marginTop="64dp"
+        android:fontFamily="@font/baloo"
+        android:foregroundGravity="center"
+        android:gravity="center"
+        android:hint="@string/txt1"
+        android:nestedScrollingEnabled="false"
+        android:scrollbarAlwaysDrawHorizontalTrack="false"
+        android:scrollHorizontally="false"
+        android:textAlignment="center"
+        android:textColor="#303030"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/imageView"
+        app:layout_constraintStart_toStartOf="@+id/imageView"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/botonenviar"
+        android:fontFamily="@font/yatra_one"
+        android:onClick="sendBotton"
+        android:text="@string/button"
+        android:textColor="#FFF5D5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="283dp"
+        android:layout_height="51dp"
+        android:background="@drawable/puntuacion"
+        android:fontFamily="@font/yatra_one"
+        android:gravity="center_horizontal|center_vertical"
+        android:textColor="#F3F3F3"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/imageCrono"
+        android:layout_width="213dp"
+        android:layout_height="146dp"
+        android:layout_marginStart="252dp"
+        android:layout_marginTop="136dp"
+        android:rotation="35"
+        android:rotationX="25"
+        android:rotationY="-15"
+        app:layout_constraintStart_toStartOf="@+id/imageView"
+        app:layout_constraintTop_toTopOf="@+id/imageView"
+        app:srcCompat="@drawable/crono" />
+
+    <TextView
+        android:id="@+id/crono"
+        android:layout_width="87dp"
+        android:layout_height="97dp"
+        android:fontFamily="@font/baloo"
+        android:gravity="center"
+        android:rotation="35"
+        android:rotationX="25"
+        android:rotationY="-15"
+        android:text="TextView"
+        android:textColor="#595959"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageCrono"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.74"
+        app:layout_constraintStart_toStartOf="@+id/imageCrono"
+        app:layout_constraintTop_toTopOf="@+id/imageCrono"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="300dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="100dp"
+        android:fontFamily="@font/baloo"
+        android:background="@drawable/fondospinner"
+        app:layout_constraintEnd_toEndOf="@+id/imageView3"
+        app:layout_constraintHorizontal_bias="0.489"
+        app:layout_constraintStart_toStartOf="@+id/imageView3"
+        app:layout_constraintTop_toTopOf="@+id/imageView3" />
+
+    <ImageView
+        android:id="@+id/questionImage"
+        android:layout_width="157dp"
+        android:layout_height="132dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView3"
+        app:layout_constraintEnd_toEndOf="@+id/imageView3"
+        app:layout_constraintStart_toStartOf="@+id/imageView3"
+        app:layout_constraintTop_toBottomOf="@+id/spinner"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/txt_nquestions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="188dp"
+        app:layout_constraintStart_toStartOf="@+id/imageView"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

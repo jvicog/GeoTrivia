@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cv"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:animateLayoutChanges="true"
+    android:scaleX="1"
+    android:scaleY="1"
+    app:cardCornerRadius="20dp"
+    app:cardElevation="4dp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:animateLayoutChanges="true"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="6dp">
+
+            <ImageView
+                android:id="@+id/iconImageView"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                app:srcCompat="@mipmap/profile_pic_3" />
+
+            <TextView
+                android:id="@+id/exampleText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/iconImageView"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="106dp"
+                android:layout_marginTop="7dp"
+                android:text="USERNAME"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/maxScoreText"
+                android:layout_width="108dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/exampleText"
+                android:layout_alignStart="@+id/exampleText"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="1dp"
+                android:text="MAX SCORE: ---"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/totalGamesText"
+                android:layout_width="147dp"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/exampleText"
+                android:layout_marginStart="142dp"
+                android:layout_marginBottom="-20dp"
+                android:layout_toEndOf="@+id/iconImageView"
+                android:text="TOTAL GAMES: ---"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/lastDateText"
+                android:layout_width="147dp"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/exampleText"
+                android:layout_marginStart="16dp"
+                android:layout_marginBottom="-39dp"
+                android:layout_toEndOf="@+id/iconImageView"
+                android:text="LAST DATE: --/--/----"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/buttonSelect"
+                android:layout_width="53dp"
+                android:layout_height="33dp"
+                android:layout_alignBottom="@+id/iconImageView"
+                android:layout_marginStart="-7dp"
+                android:layout_marginBottom="1dp"
+                android:layout_toEndOf="@+id/lastDateText"
+                android:background="#84FD62"
+                android:onClick="select"
+                android:text="SELECT" />
+
+            <ImageButton
+                android:id="@+id/buttonEdit"
+                android:layout_width="60dp"
+                android:layout_height="63dp"
+                android:layout_alignBottom="@+id/buttonSelect"
+                android:layout_marginStart="-7dp"
+                android:layout_marginBottom="-17dp"
+                android:layout_toEndOf="@+id/buttonSelect"
+                android:onClick="edit"
+                android:scaleX="0.4"
+                android:scaleY="0.4"
+                app:srcCompat="@mipmap/button_edit" />
+
+            <ImageButton
+                android:id="@+id/buttonRemove"
+                android:layout_width="59dp"
+                android:layout_height="62dp"
+                android:layout_alignBottom="@+id/buttonSelect"
+                android:layout_marginStart="21dp"
+                android:layout_marginBottom="-17dp"
+                android:layout_toEndOf="@+id/buttonSelect"
+                android:onClick="remove"
+                android:scaleX="0.4"
+                android:scaleY="0.4"
+                app:srcCompat="@mipmap/button_remove" />
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

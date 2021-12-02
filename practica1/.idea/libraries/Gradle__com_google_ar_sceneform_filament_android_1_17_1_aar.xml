@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ar.sceneform:filament-android:1.17.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../ANDROID_SDK_HOME/.graddle/caches/transforms-2/files-2.1/ab0d989106dc7af2bbea082c6877de04/jetified-filament-android-1.17.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../ANDROID_SDK_HOME/.graddle/caches/transforms-2/files-2.1/ab0d989106dc7af2bbea082c6877de04/jetified-filament-android-1.17.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5cd90ddb2664eda49b5e093910a83094/jetified-filament-android-1.17.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5cd90ddb2664eda49b5e093910a83094/jetified-filament-android-1.17.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5cd90ddb2664eda49b5e093910a83094/jetified-filament-android-1.17.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f544d8f3782daef8e1b6d8eb6a0e2dc2/jetified-filament-android-1.17.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f544d8f3782daef8e1b6d8eb6a0e2dc2/jetified-filament-android-1.17.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f544d8f3782daef8e1b6d8eb6a0e2dc2/jetified-filament-android-1.17.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

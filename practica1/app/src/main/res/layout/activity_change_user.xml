@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ChangeUser">
+
+    <Button
+        android:id="@+id/addUserButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginBottom="40dp"
+        android:onClick="goAddUser"
+        android:text="Add user"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/backButon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="192dp"
+        android:layout_marginTop="12dp"
+        android:onClick="goBack"
+        android:text="Back"
+        app:layout_constraintStart_toEndOf="@+id/addUserButton2"
+        app:layout_constraintTop_toBottomOf="@+id/listRecyclerView" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/listRecyclerView"
+        android:layout_width="407dp"
+        android:layout_height="630dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginEnd="1dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/removeText"
+        android:layout_width="181dp"
+        android:layout_height="97dp"
+        android:layout_marginTop="104dp"
+        android:background="#D53C3C3C"
+        android:foregroundGravity="center"
+        android:gravity="center"
+        android:text="¿Estás seguro de que deseas eliminar el usuario?"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/listRecyclerView" />
+
+    <Button
+        android:id="@+id/confirmRemove"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:backgroundTint="#EA5959"
+        android:onClick="confirmRemove"
+        android:text="Eliminar"
+        app:layout_constraintStart_toStartOf="@+id/removeText"
+        app:layout_constraintTop_toBottomOf="@+id/removeText" />
+
+    <Button
+        android:id="@+id/cancelRemove"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:backgroundTint="#ACA7A7"
+        android:onClick="cancelRemove"
+        android:text="Cancelar"
+        app:layout_constraintEnd_toEndOf="@+id/removeText"
+        app:layout_constraintTop_toBottomOf="@+id/removeText" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_third_quest.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\layout\\activity_third_quest.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_i_vizcaya.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\i_vizcaya.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag7c.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag7c.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag4c.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag4c.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo_respuestas.jpg.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\fondo_respuestas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag8a.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag8a.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_element.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\layout\\list_element.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag1c.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag1c.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag5a.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag5a.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\font_anton.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\font\\anton.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_user.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\layout\\activity_add_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_user.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\layout\\activity_edit_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag10d.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag10d.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_flat_text_selector.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\radio_flat_text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag2a.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag2a.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_crono.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\crono.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag3d.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag3d.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rueda_ajustes.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\rueda_ajustes.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_user.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\layout\\activity_change_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\font_alfa_slab_one.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\font\\alfa_slab_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag8b.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag8b.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag4d.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag4d.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag10c.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag10c.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag1b.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag1b.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag4a.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag4a.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_i_murcia.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\i_murcia.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_i_cuenca.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\i_cuenca.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_i_badajoz.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\i_badajoz.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo_preguntas.jpg.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\fondo_preguntas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boton_menu_sin_texto.jpg.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\boton_menu_sin_texto.jpg"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag9d.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag9d.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag6d.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag6d.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag10b.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag10b.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag5c.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag5c.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_first_quest.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\layout\\activity_first_quest.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag9a.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag9a.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag2c.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag2c.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag7d.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag7d.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_i_salamanca.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\i_salamanca.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag6a.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag6a.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cartel_madera.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\cartel_madera.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag3c.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag3c.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag7a.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag7a.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag8d.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag8d.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flecha_atras.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\flecha_atras.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag9b.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag9b.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag2d.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag2d.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_botonenviar.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\botonenviar.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag6b.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag6b.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_flat_regular.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\radio_flat_regular.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag5d.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag5d.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\font_baloo.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\font\\baloo.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_flat_selector.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\radio_flat_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag10a.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag10a.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_i_la_coruna.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\i_la_coruna.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_profile_pic_2.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-hdpi\\profile_pic_2.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo.jpg.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\fondo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_button_edit.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-hdpi\\button_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_profile_pic_add.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-hdpi\\profile_pic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondospinner.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\fondospinner.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_i_teruel.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\i_teruel.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag3b.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag3b.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_flat_selected.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\radio_flat_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_profile_pic_1.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-hdpi\\profile_pic_1.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fourth_quest.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\layout\\activity_fourth_quest.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_puntuacion.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\puntuacion.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag3a.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag3a.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pergamino_2.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\pergamino_2.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag6c.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag6c.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag1a.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag1a.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_i_granada.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\i_granada.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\font_yatra_one.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\font\\yatra_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag2b.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag2b.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_i_cordoba.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\i_cordoba.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag8c.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag8c.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_button_remove.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-hdpi\\button_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_i_huelva.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\i_huelva.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag7b.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag7b.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_profile_pic_none.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-hdpi\\profile_pic_none.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_profile_pic_3.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-hdpi\\profile_pic_3.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag9c.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag9c.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag4b.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag4b.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag1d.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag1d.png"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_second_quest.xml.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\layout\\activity_second_quest.xml"
+    },
+    {
+        "merged": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_flag5b.png.flat",
+        "source": "C:\\Users\\baldo\\OneDrive\\Documentos\\GitHub\\androidp1v4\\androidp1\\practica1\\app\\src\\main\\res\\mipmap-xhdpi\\flag5b.png"
+    }
+]

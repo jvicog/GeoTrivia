@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">practica1</string>
+    <string name="txt1">¿Cuál es la provincia señalada?</string>
+    <string name="rb1">Esta no</string>
+    <string name="rb2">Esta tampoco</string>
+    <string name="rb3">Esta si</string>
+    <string name="rb4">No no y no</string>
+    <string name="button">enviar</string>
+    <string name="buttonPlay1">HISTORIA</string>
+    <string name="buttonPlay2">BANDERAS</string>
+    <string name="buttonPlay3">GEOGRAFÍA</string>
+    <string name="buttonPlay4">"???"</string>
+    <string name="rb1_SecondQuest">Perry el ornitorrinco</string>
+    <string name="rb2_SecondQuest">Mariano kk</string>
+    <string name="rb3_SecondQuest">Baldo mola</string>
+    <string name="rb4_SecondQuest">Todas son correctas</string>
+    <string name="fin_del_examen">¡FIN DEL EXAMEN!</string>
+    <string name="resultado">Resultado:</string>
+    <string name="showResult">-</string>
+    <string name="volver">VOLVER</string>
+    <string name="textview">TextView</string>
+    <string name="estrella">estrella</string>
+    <string name="historia">HISTORIA</string>
+    <string name="banderas">BANDERAS</string>
+    <string name="geograf_a">GEOGRAFÍA</string>
+    <string name="pendiente">CIUDADES</string>
+    <string name="geotrivia">GEOTRIVIA</string>
+</resources>
